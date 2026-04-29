@@ -28,6 +28,7 @@ To run the desktop version from the project root:
 
 This project is also being used to practice publishing a local Java/libGDX project to GitHub.
 This line was added locally in VS Code for the Module 4 Git push demo.
+This line was added directly on GitHub for the Module 4 pull demo.
 
 ```bash
 ./gradlew lwjgl3:run
