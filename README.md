@@ -24,6 +24,10 @@ This project uses Gradle and includes the Gradle wrapper.
 
 To run the desktop version from the project root:
 
+## Development Notes
+
+This project is also being used to practice publishing a local Java/libGDX project to GitHub.
+
 ```bash
 ./gradlew lwjgl3:run
 ```
