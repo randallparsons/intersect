@@ -33,3 +33,5 @@ This line was added directly on GitHub for the Module 4 pull demo.
 ```bash
 ./gradlew lwjgl3:run
 ```
+
+Temporary final revert demo line: this change will be undone.
